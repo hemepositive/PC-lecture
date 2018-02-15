@@ -4,30 +4,35 @@ _You only get one chance to get this right._
 
 ## My failures
 
-1. Abnormal chest CT Me: "The CT shows a large mass. We don’t know what it is.
-   It could just be an infection but it could be something else like a
-   malignancy. I would not get all upset as right now we just dont know what it
-   is."
+1. Abnormal chest CT
 
-2. Ruptured AAA Me: "The CT shows that your aneurysm has ruptured and that is
-   why your blood pressure and blood levels are so low. I called the vascular
-   surgeon and he says that surgery is too risky."
+* Me: "The CT shows a large mass. We don’t know what it is. It could just be an
+  infection but it could be something else like a malignancy. I would not get
+  all upset as right now we just dont know what it is."
 
-Patient: "You’re saying, I’m toast. How long do have? When will I die?"
+2. Ruptured AAA
+   * Me: "The CT shows that your aneurysm has ruptured and that isnwhy your
+     blood pressure and blood levels are so low. I called the vascular surgeon
+     and he says that surgery is too risky."
 
-Me: "Today."
+* Patient: "You’re saying, I’m toast. How long do have? When will I die?"
 
-3. Patient with complete bowel obstruction Patient : "No one will even tell me
-   how long I have!"
+* Me: "Today."
 
-Me: "One month."
+3. Patient with complete bowel obstruction
 
-Patient: "Oh!"
+* Patient: "No one will even tell me how long I have!"
 
-3. Calling family of patient who died after a code Me: "They passed."
+* Me: "One month."
 
-Me: "They lost their pulse and we called a code. We did everything we could but
-they didn’t make it."
+* Patient: "Oh!"
+
+3. Calling family of patient who died after a code
+
+* Me: "They passed."
+
+* Me: "They lost their pulse and we called a code. We did everything we could
+  but they didn’t make it."
 
 ## What is Bad News
 
@@ -76,7 +81,7 @@ patients, families, and physicians1.
 
 * 74% no specific approach
 
-* > 90% most difficult aspect was dealing with emotions
+* ~90% most difficult aspect was dealing with emotions
 
 There is evidence that physicians do not get better at DBN with time.
 
@@ -121,8 +126,8 @@ _The Solution to The Problem of Delivering Bad News: HAVE A PLAN_
   * Use short sentences.
   * Make it non technical to the extent possible.
   * Use the words – "Cancer," "AIDS," "Death" as appropriate
-* STEP 5: Addressing the Patient’s EMOTIONS with empathic responses \* Give them
-  time to process the bad news. Don’t rush into the next steps
+* STEP 5: Addressing the Patient’s EMOTIONS with empathic responses
+  * Give them time to process the bad news. Don’t rush into the next steps
   * After giving this news, stay quiet for at least 10-15 seconds-resist the
     urge to tell the patient how to feel.
   * Allow them to assimilate the information
@@ -142,8 +147,8 @@ _The Solution to The Problem of Delivering Bad News: HAVE A PLAN_
 
 • Not finding out the patient’s information needs.
 
-• Launching into your agenda first without negotiating the focus of the
-interview.
+• Launching into your agenda first without negotiating the focus of
+theninterview.
 
 • Offering reassurance prematurely.
 
@@ -229,27 +234,6 @@ go beyond denial with you until they have developed a very high level of trust.
 It may be counterproductive to use NURSE repeatedly in the early stages of your
 relationship with a blunter.
 [http://depts.washington.edu/oncotalk/learn/modules/Modules_01.pdf](http://depts.washington.edu/oncotalk/learn/modules/Modules_01.pdf)
-
-Pearls
-
-<table>
-  <tr>
-    <td>
-
-Delivering bad news is very stressful for clinicians with the after effects
-lasting for hours to days. Competence is a great stress reliever. The clinician
-who is adequately trained in communication skills is more likely to break bad
-news both sensitively and efficiently. Hearing bad news is very stressful and
-distressing to patients. Patients with previous history of mental illness,
-patients with poor social and financial support systems are especially
-vulnerable to the after effects of bad news. Ask before you tell: First ask the
-patient "What is your understanding of your illness?" Deliver the bad news in
-simple clear sentences. Avoid jargon. Arrange for follow-up care. Debrief your
-staff and allow time for self-reflection.
-
-</td>
-  </tr>
-</table>
 
 Adapted from:
 
