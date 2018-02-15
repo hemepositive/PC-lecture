@@ -1,8 +1,8 @@
-**Delivering Bad News (DBN)**
+# Delivering Bad News (DBN)
 
 _You only get one chance to get this right._
 
-##My failures
+## My failures
 
 1. Abnormal chest CT Me: "The CT shows a large mass. We don’t know what it is.
    It could just be an infection but it could be something else like a
@@ -29,7 +29,7 @@ Patient: "Oh!"
 Me: "They lost their pulse and we called a code. We did everything we could but
 they didn’t make it."
 
-##What is Bad News
+## What is Bad News
 
 Most docs just think of cancer or immediate life threatening illness as ‘bad
 news’ but any threat to a patient’s ‘self identity’ is bad news to them.
@@ -64,7 +64,7 @@ chronic lung diseases (chronic obstructive pulmonary disease, cystic fibrosis)</
   </tr>
 </table>
 
-##Background
+## Background
 
 Delivering bad news is stressful, both all parties involved in the conversation:
 patients, families, and physicians1.
@@ -80,190 +80,61 @@ patients, families, and physicians1.
 
 There is evidence that physicians do not get better at DBN with time.
 
-##Three Styles of DBN2
-
-"To look at what happened to doctors when they gave bad news, professor Stewart
-Dunn and his team monitored heartbeat consultants and registrar's interactions
-with a professional actor playing a woman finding out she had lost her husband.
-"From even before the he comes through the door the doctor's heartbeats when up
-and average of 35 beats at baseline, which underlies how stressful the situation
-is. And there is no difference between consultants and registrars, which suggest
-this doesn't get any less stressful with experience."
-
-BLUNT: The blunt style is characterized by providers delivering the news within
-the 30 seconds of the interaction.
-
-FORECASTING: A stage delivery of the news within the first 2 minutes.
-
-STALLING: Delaying this serious news for more than 2 minutes. This avoidance
-style relies on the news recipient reaching a conclusion about event, without
-the doctor explicitly conveying the news.
-
-**_Be aware that most of the reasons for bad delivery by the news-giver is
+_Be aware that most of the reasons for bad delivery by the news-giver is
 anticipation of the emotions of the news-receiver. (medical jargon, stalling,
-overly positive prognosis)_**
+overly positive prognosis)_
 
 _The Solution to The Problem of Delivering Bad News: HAVE A PLAN_
 
-##SPIKES - The Six-Step Protocol for Delivering Bad News
+## SPIKES - The Six-Step Protocol for Delivering Bad News
 
 * "A strategy not a script"- includes most important elements of DBN.
 
 * Adaptable to family meetings and GOC discussions
 
-###S.P.I.K.E.S
+### S.P.I.K.E.S
 
 * STEP 1: SETTING UP the Interview
 
-\** Prepare
+  * Prepare
+  * Privacy
+  * Involve significant others
+  * Sit down
+  * Look attentive and calm
+  * Listening mode
+  * Availability
 
-\** Privacy
+* STEP 2: Assessing the Patient’s PERCEPTION
 
-\** Involve significant others
-
-\** Sit down
-
-\** Look attentive and calm
-
-\** Listening mode
-
-\** Availability
-
-* STEP 2: Assessing the Patient’s PERCEPTION ** "Before you tell, ask" ** "What
-  have the other doctor's told you about..." \** NOT A QUIZ "What is your
-  understanding?"
+  * Before you tell, ask
+  * "What have the other doctor's told you about..."
+  * NOT A QUIZ _"What is your understanding?"_
 
 * STEP 3: Obtaining the Patient’s INVITATION
 
+  * 10-20% of patients do not want to know prognosis
+  * Family may be reluctant for patient to hear bad news
+
 * STEP 4: Giving KNOWLEDGE and Information to the Patient
-
-* STEP 5: Addressing the Patient’s EMOTIONS with empathic responses
-
+  * Warning shot
+  * Pause
+  * Use short sentences.
+  * Make it non technical to the extent possible.
+  * Use the words – "Cancer," "AIDS," "Death" as appropriate
+* STEP 5: Addressing the Patient’s EMOTIONS with empathic responses \* Give them
+  time to process the bad news. Don’t rush into the next steps
+  * After giving this news, stay quiet for at least 10-15 seconds-resist the
+    urge to tell the patient how to feel.
+  * Allow them to assimilate the information
+  * Use empathic statements (NURSE) 
 * STEP 6: Strategy and Summary
+  * Check for understanding
+  * Summarize
+  * Make clear plans for follow up.
+  * Please write our instructions briefly and clearly and hand it to them
+  * Give them guideline how about how best to get in touch with you/designee
 
-Setting(S)
-
-\** Prepare
-
-\** Privacy
-
-\** Involve significant others
-
-\** Sit down
-
-\** Look attentive and calm
-
-\** Listening mode
-
-\** Availability
-
-Perception(P)
-
-* "Before you tell, ask"
-
-Invitation(I)
-
-Knowledge(K)
-
-Empathy(E)
-
-Strategy and Summary(S)
-
-##Example First ask:
-
-You have to determine what the patient knows about their current situation
-before starting a discussion about the next phase.
-
-_"What is your understanding of your illness?"_
-
-Warning shot:
-
-Warn them about the bad news to come _" I am afraid I have some bad news for
-you”_
-
-**Pause:** Give them a moment to compose themselves and get ready to hear the
-news
-
-Deliver the news:
-
-* Use short sentences.
-
-* Make it non technical to the extent possible.
-
-* Use the words – "Cancer," "AIDS," "Death" as appropriate
-
-_" As you may recall, we did a CT scan of your lungs. The results show that the
-cancer has come back”_
-
-Sympathetic silence:
-
-* Give them time to process the bad news. Don’t rush into the next steps
-
-* After giving this news, stay quiet for at least 10-15 seconds-resist the urge
-  to tell the patient how to feel.
-
-* Allow them to assimilate the information
-
-Answering questions:
-
-* Be prepared to repeat the information: sometimes the impact of the information
-  is so great that patients may want to hear it a second time
-
-* Answer questions kindly and honestly
-
-* If you do not know the answers please state so
-
-* If the next step is uncertain state so.
-
-Assure non-abandonment:
-
-* Assure the patient that you will be willing and available to support them on
-  an ongoing basis.
-
-_" I am here to support you. I will still be your doctor no matter what
-happens”_
-
-Follow up:
-
-* Make clear plans for follow up.
-
-* Please write our instructions briefly and clearly and hand it to them
-
-* Give them guideline how about how best to get in touch with you/designee
-
-De-brief and self-reflection:
-
-* Be aware that your colleagues (trainees, multi disciplinary clinicians) often
-  have strong reactions to these situations. Be sure to check in with them.
-
-* Be aware of your own responses. Be kind to yourself.
-
-<table>
-  <tr>
-    <td>Phraseology : Do’s and Don’ts
-What not to say
-What to say
-"I know exactly how you feel."
-Sweeping statements that are not grounded in personal or professional experiences are hard to believe.
-“My past experience with many patients in your situation has taught me that you must be in distress right now.”
-“I can imagine how upset you must be.”
-“You have failed chemotherapy.”
-“You have failed the radiation therapy.”
-This implies that it is the patient’s fault that the therapies are not working.
-“Unfortunately, the __________ chemotherapy / radiotherapy does not seem to be working very well for you.”
-“There is nothing else we can do.”
-“Looks like the ________ is not working very well. However, you can be sure that we will do everything in our power to make sure that you won’t suffer.”
-“There is nothing more that can be done. I am going to refer you to hospice.”
-“Doctor: As we discussed during your last clinic visit, it looks like the ________ treatment we tried is not working. In addition, you are having a lot of side effects as well. So we have to stop the ________medication.
-Patient: What do we do next, doc?
-Doctor: At this time, I do not have other viable medications that I can offer to you”
-Patient: …..
-Doctor: Meantime, you are having a lot of pain and other problematic symptoms. So, I would like to refer you to hospice. Hospice professionals have a lot of expertise in treating symptoms and increasing comfort and quality of life. They will help you by managing your ________________ (pain, nausea, etc).
-</td>
-  </tr>
-</table>
-
-**Pitfalls/Common Barriers to Good Communication **
+### Pitfalls/Common Barriers to Good Communication \**
 
 • Giving pathophysiology lectures.
 
@@ -276,7 +147,7 @@ interview.
 
 • Offering reassurance prematurely.
 
-NURSE statements for articulating empathy\*
+### NURSE statements for articulating empathy
 
 <table>
   <tr>
@@ -311,7 +182,7 @@ NURSE statements for articulating empathy\*
   </tr>
 </table>
 
-Three fundamental skills\*
+### Three fundamental skills
 
 <table>
   <tr>
