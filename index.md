@@ -11,9 +11,10 @@ _You only get one chance to get this right._
   all upset as right now we just dont know what it is."
 
 2. Ruptured AAA
-   * Me: "The CT shows that your aneurysm has ruptured and that isnwhy your
-     blood pressure and blood levels are so low. I called the vascular surgeon
-     and he says that surgery is too risky."
+
+* Me: "The CT shows that your aneurysm has ruptured and that isnwhy your blood
+  pressure and blood levels are so low. I called the vascular surgeon and he
+  says that surgery is too risky."
 
 * Patient: "You’re saying, I’m toast. How long do have? When will I die?"
 
