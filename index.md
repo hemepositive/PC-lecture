@@ -12,11 +12,11 @@ _You only get one chance to get this right._
 
 2. Ruptured AAA
 
-* Me: "The CT shows that your aneurysm has ruptured and that isnwhy your blood
+* Me: "The CT shows that your aneurysm has ruptured and that is why your blood
   pressure and blood levels are so low. I called the vascular surgeon and he
   says that surgery is too risky."
 
-* Patient: "You’re saying, I’m toast. How long do have? When will I die?"
+* Patient: "You’re saying, I’m toast...How long do I have? When will I die?"
 
 * Me: "Today."
 
@@ -28,7 +28,7 @@ _You only get one chance to get this right._
 
 * Patient: "Oh!"
 
-3. Calling family of patient who died after a code
+3. Death notification by phone
 
 * Me: "They passed."
 
