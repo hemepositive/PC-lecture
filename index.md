@@ -72,10 +72,9 @@ chronic lung diseases (chronic obstructive pulmonary disease, cystic fibrosis)</
 
 ## Background
 
-Delivering bad news is stressful, both all parties involved in the conversation:
-patients, families, and physicians1.
+Delivering bad news is stressful for everyone involved in the conversation.
 
-1998 American Society of Clinical Oncology (400 Oncologists: most delivered
+1998 American Society of Clinical Oncology (400 Oncologists: most delivered bad news
 5-20X/ month)
 
 * <5% any training in delivering bad news
@@ -149,7 +148,7 @@ _The Solution to The Problem of Delivering Bad News: HAVE A PLAN_
 • Not finding out the patient’s information needs.
 
 • Launching into your agenda first without negotiating the focus of
-theninterview.
+the interview.
 
 • Offering reassurance prematurely.
 
