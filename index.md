@@ -125,7 +125,7 @@ _The Solution to The Problem of Delivering Bad News: HAVE A PLAN_
   * Pause
   * Use short sentences.
   * Make it non technical to the extent possible.
-  * Use the words – "Cancer," "AIDS," "Death" as appropriate
+  * Use proper words. Say "cancer," "AIDS," "death" as appropriate.
 * STEP 5: Addressing the Patient’s EMOTIONS with empathic responses
   * Give them time to process the bad news. Don’t rush into the next steps
   * After giving this news, stay quiet for at least 10-15 seconds-resist the
