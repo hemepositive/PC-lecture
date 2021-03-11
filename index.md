@@ -9,9 +9,8 @@
 
   Goal concordant care
   : healthcare for seriously ill patients that aligns treatment with their goals and values.
-
+  <br />
   **We want to have a conversation to determine what is most important and what we want to avoid. We then turn those priorities into medical orders. **
-     
 </details>
 
 <details>
