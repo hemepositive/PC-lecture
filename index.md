@@ -44,8 +44,8 @@ The List of Woe
     - May only be POA and limited to financial decisions
   - It's not the uncle
   - It’s not the oldest child
-  <details>
-  <summary>More...</summary>
+  - <details>
+    <summary>More...</summary>
   
   1. POA papers are typically prepared legally through a law office and may/may not include HC POA (must read to clarify)
   2. Living wills identify a healthcare proxy. If using the HH Advanced Directives packet, only 2 witnesses required, not notary.
@@ -118,13 +118,14 @@ The List of Woe
   - “Tell me more about that?”
 
 <details>
-  <summary><h3>Why do we want the DNR?</h3></summary>
+  <summary>Why do we want the DNR?</summary>
+  
   Moral Distress
   : "Knowing the right thing to do but not being able to do it because of some external constraint."
 </details>
 
 <details>
-  <summary><h3>How to do have a good GOC conversation?</h3></summary>
+  <summary>How to do have a good GOC conversation?</summary>
   
 ### Use a Talking Map</h3>
   ## [REMAP](https://www.vitaltalk.org/guides/transitionsgoals-of-care/)
