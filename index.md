@@ -120,31 +120,32 @@
 - Use empathic statements.
  <details>
   <summary>NURSE Statements</summary>
-Ways to verbally address emotions
+   
+   ### Ways to verbally address emotions
 
-Name
-“I can see that this is frustrating.”
-“It seems that this is very upsetting to you.”
-“I wonder if you might be feeling angry.”
-“Anyone in your situation would be upset.”
+- Name
+ - “I can see that this is frustrating.”
+ - “It seems that this is very upsetting to you.”
+ - “I wonder if you might be feeling angry.”
+ - “Anyone in your situation would be upset.”
 
-Understand
-“I can't imagine how hard this is for you.”
-“I can only imagine what it’s like to balance your treatments and her family life.”
-“I can't possibly understand what you're going through right now.”
-“I think I understand you to say that you're concerned about the effect of the chemotherapy on your kids.”
+- Understand
+  - “I can't imagine how hard this is for you.”
+  - “I can only imagine what it’s like to balance your treatments and her family life.”
+  - “I can't possibly understand what you're going through right now.”
+  - “I think I understand you to say that you're concerned about the effect of the chemotherapy on your kids.”
 
-Respect
-“You're doing all the right things and asking all the right questions.”
-“I’ve been so impressed by the care you havet been providing for your wife during the many years of her illness.”
+- Respect
+  - “You're doing all the right things and asking all the right questions.”
+  - “I’ve been so impressed by the care you havet been providing for your wife during the many years of her illness.”
 
-Support
-“I'm going to walk this road with you.”
-“You’re not alone in this.”   
+- Support
+  - “I'm going to walk this road with you.”
+  - “You’re not alone in this.”   
 
-Explore
-“Tell me more about what worries you.”
-“I sense how upset you are feeling about the results of the CT scan.”
+- Explore
+  - “Tell me more about what worries you.”
+  - “I sense how upset you are feeling about the results of the CT scan.”
 </details>
 
 - Ignoring spiritual beliefs
