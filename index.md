@@ -71,7 +71,7 @@
 - Making an agenda
 
   - For 28% of providers, their own care goals differed from their patients'. Providers were more likely to prioritise palliative care (relative to curative) in their own goals than in their predictions about patients' goals.[^3]
-  - "We are not trying to talk you into anything, nor are we trying to talk you into anything."
+  - "We are not trying to talk you into anything, nor are we trying to talk you out of anything."
  
 - Being brutally honest is not a virtue.
   
@@ -95,9 +95,9 @@
 
 - Talking at people versus talking with people.
 
-  - We commonly come in and family say "you are the first people that is actually listen to me"
+  - We commonly come in and family say "you are the first people that have actually listened to me."
   - Physicians typically feel their conversations are successful if they got all the information out there.
-  - Families and patients have a different criteria for a successful conversation, mostly where they heard.
+  - Families and patients have a different criteria for a successful conversation, mostly were they heard.
 
 - Brutal description of CPR
 
