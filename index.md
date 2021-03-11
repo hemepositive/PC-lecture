@@ -6,4 +6,7 @@
 
 ## Link survey
 
-https://docs.google.com/forms/d/e/1FAIpQLSc6wEWPzRJbWmhyQ1AMDLrWUOtAEjdSPcGU4F0nSiyHMuBOFQ/viewform?usp=sf_link
+[Link to Survey](https://docs.google.com/forms/d/e/1FAIpQLSc6wEWPzRJbWmhyQ1AMDLrWUOtAEjdSPcGU4F0nSiyHMuBOFQ/viewform?usp=sf_link)
+
+<!-- Survey
+https://docs.google.com/forms/d/e/1FAIpQLSc6wEWPzRJbWmhyQ1AMDLrWUOtAEjdSPcGU4F0nSiyHMuBOFQ/viewform?usp=sf_link -->
