@@ -44,7 +44,7 @@ The List of Woe
     - May only be POA and limited to financial decisions
   - It's not the uncle
   - It’s not the oldest child
-  - <details>
+  <details>
     <summary>More...</summary>
   
   1. POA papers are typically prepared legally through a law office and may/may not include HC POA (must read to clarify)
@@ -58,26 +58,31 @@ The List of Woe
 - Beating a dead horse
 
   - How long do you need to make a decision on your spouse, a new car, vacation?
-  - Give surrogates the same courtesy
+  - Give surrogates the same courtesy.
+  - People tend to dig there heels in when repeatedly questioned.
+  - Readdress when something changes.
 
 - Making an agenda
 
   - For 28% of providers, their own care goals differed from their patients'. Providers were more likely to prioritise palliative care (relative to curative) in their own goals than in their predictions about patients' goals.[^3]
-  - Being brutally honest is not a virtue.
+ 
+- Being brutally honest is not a virtue.
+  
   - Do you like being told you're body habitus, bad haircut, etc?
+  - Give the information in an empathic manner.
 
 - Thinking decisions are based on logic.
 
   - Did you logically choose your spouse?
-
   - Beliefs, values, experiences are more important in decision making.
 
 - Blurring the line between level of care and CODE STATUS.
+  - Level of Care is what we do when you are alive.
+  - Code status is what we do when you are dead.
 
 - Misunderstanding cognitive versus emotional understanding
 
   - "They don't get it"
-
   - It is one thing to understand something in your head, another to understand something in your heart.
 
 - Talking at people versus talking with people.
@@ -91,21 +96,21 @@ The List of Woe
   - "I know it is going to break ribs”
   - Statistics are better as is explaining the condition after successful resuscitation.
   - Do you ever remember somebody being better off, healthier after CPR?
-  - Again it comes down to what is the goal of doing CPR. What are we hoping to accomplish?
+  - It comes down to what is the goal of doing CPR. What are we hoping to accomplish?
   - Have you ever seen CPR on TV?
-  - 1 in 6 survive to discharge, 1 and 20 survived without deficits.
+  - 1 in 6 survive to discharge, 1 in 20 survive without deficits.
   - https://www.gofarcalc.com
 
 - Do not argue, do not defend.
 
-  - Very common.
-  - People feel pressured to make a decision.
+  - Very common that families are angry, questioning care.
+  - Remain calm and hold your tongue.
 
 - Do not give bad news and expect an answer the same day.
 
 - Respect patient autonomy and family choice even if it is not what you would do for your family member.
 
-  - This is hard.
+  - This is hard to do.
   - The goal is to decide what the patient would want in the situation.
   - You are trying to give them peace with their decision not peace with you
 
@@ -135,15 +140,19 @@ The List of Woe
   4. Align with the patient’s values. 
   5. Plan medical treatments that match patient values.
 
-## Susan Block's Four Questions
+  ## Susan Block's Four Questions
 
-1. Do you understand your prognosis?
-2. What are your fears about what is to come?
-3. What are your goals as time runs out?
-4. What trade offs are you willing to make?
+  1. Do you understand your prognosis?
+  2. What are your fears about what is to come?
+  3. What are your goals as time runs out?
+  4. What trade offs are you willing to make?
 
 </details>
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 **References**
 
 1. Ramkumar, Mukund1; Aslakson, Rebecca1 415: GOALS OF CARE AND GOAL CONCORDANCE BETWEEN CRITICALLY ILL ADULTS AND THEIR FAMILY MEMBERS, Critical Care Medicine: January 2020 Volume 48 Issue 1 p 189
