@@ -14,8 +14,8 @@ Goal concordant care
 
 1. We want to have a conversation to determine what is most important and what they want to avoid then turn that into medical orders.
 2. Results
-  - 17% vs 4% trach/PEG after GOC conversations[^1]
-  - Over 50% decrease in PEG placement after GOC conversations[^2]
+  1. 17% vs 4% trach/PEG after GOC conversations[^1]
+  2. Over 50% decrease in PEG placement after GOC conversations[^2]
 
 </details>
 
