@@ -60,9 +60,9 @@
 
 - Beating a dead horse
 
-  - How long do you need to make a decision on your spouse, a new car, vacation?
+  - How long do you need to make a decision on your spouse/partner, a new car, vacation?
   - Give surrogates the same courtesy.
-  - People tend to dig there heels in when repeatedly questioned.
+  - People tend to dig their heels in when repeatedly questioned.
   - Readdress when something changes.
 
 - Making an agenda
@@ -192,6 +192,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
 **References**
 
 1. Ramkumar, Mukund1; Aslakson, Rebecca1 415: GOALS OF CARE AND GOAL CONCORDANCE BETWEEN CRITICALLY ILL ADULTS AND THEIR FAMILY MEMBERS, Critical Care Medicine: January 2020 Volume 48 Issue 1 p 189
