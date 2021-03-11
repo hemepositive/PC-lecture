@@ -12,10 +12,15 @@
   Goal concordant care
   : healthcare for seriously ill patients that aligns treatment with their goals and values.
 
-  1. We want to have a conversation to determine what is most important and what they want to avoid then turn that into medical orders.
-  2. Results
-      1. 17% vs 4% trach/PEG after GOC conversations[^1]
-      2. Over 50% decrease in PEG placement after GOC conversations[^2]
+  **We want to have a conversation to determine what is most important and what they want to avoid then turn those  into medical orders.**
+     
+</details>
+
+<details>
+  <summary>Results</summary>
+  
+  1. 17% vs 4% trach/PEG after GOC conversations[^1]
+  2. Over 50% decrease in PEG placement after GOC conversations[^2]
 </details>
 
 ## The List of Woe
@@ -144,6 +149,11 @@
   2. What are your fears about what is to come?
   3. What are your goals as time runs out?
   4. What trade offs are you willing to make?
+
+  ## Others
+  1. If you time was short what would be more important to you?
+  2. Discuss best care, worst case, and what will probably happen.
+  3. [Serious Illness Conversation Guide](https://www.ariadnelabs.org/areas-of-work/serious-illness-care/)
 
 </details>
 
