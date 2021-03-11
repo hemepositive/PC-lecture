@@ -11,8 +11,10 @@
 
 Goal concordant care: healthcare for seriously ill patients that aligns treatment with their goals and values.
 
-1. 17% vs 4% trach/PEG after GOC conversations
-2. > 50% decrease in PEG placement after GOC conversations
+We want to have a conversation to determine what is most important and what they want to avoid then turn that into medical orders.
+
+1. 17% vs 4% trach/PEG after GOC conversations[^1]
+2. Over 50% decrease in PEG placement after GOC conversations[^2]
 
 </details>
 
@@ -44,8 +46,9 @@ The List of Woe
   -- Give surrogates the same courtesy
 
 - Making an agenda
+  -- For 28% of providers, their own care goals differed from their patients'. Providers were more likely to prioritise palliative care (relative to curative) in their own goals than in their predictions about patients' goals.[^3]
   -- Being brutally honest is not a virtue.
-  -- Do you like being told you are fat, bad haircut, etc?
+  -- Do you like being told you're body habitus, bad haircut, etc?
 
 - Thinking decisions are based on logic.
 
@@ -96,13 +99,22 @@ The List of Woe
 
 <details>
   <summary><h3>How to do have a good GOC conversation?</h3></summary>
-  ### Use a talking map
+  
+  ### Use a Talking Map
   ## [REMAP](https://www.vitaltalk.org/guides/transitionsgoals-of-care/)
   1. Reframe why the status quo isn’t working. 
   2. Expect emotion & empathize. 
   3. Map the future.
   4. Align with the patient’s values. 
-  5. Plan medical treatments that match patient values. 
+  5. Plan medical treatments that match patient values.
+
+## Susan Block's Four Questions
+
+1. Do you understand your prognosis?
+2. What are your fears about what is to come?
+3. What are your goals as time runs out?
+4. What trade offs are you willing to make?
+
 </details>
 
 ## Definitions
@@ -114,7 +126,10 @@ The List of Woe
 5. If none of the above and no relatives, need case mgt to work on expedited guardianship. Guardianship (power over the person) vs. Conservatorship (power over the purse).
 
 **References**
-Ramkumar, Mukund1; Aslakson, Rebecca1 415: GOALS OF CARE AND GOAL CONCORDANCE BETWEEN CRITICALLY ILL ADULTS AND THEIR FAMILY MEMBERS, Critical Care Medicine: January 2020 Volume 48 Issue 1 p 189
-doi: 10.1097/01.ccm.0000620008.90432.bf
 
-'TIMEOUT' Before PEG Placement: A Policy Approach to Align Shared Decision Making and Goals of Care through Palliative Intervention (F425C)
+1. Ramkumar, Mukund1; Aslakson, Rebecca1 415: GOALS OF CARE AND GOAL CONCORDANCE BETWEEN CRITICALLY ILL ADULTS AND THEIR FAMILY MEMBERS, Critical Care Medicine: January 2020 Volume 48 Issue 1 p 189
+   doi: 10.1097/01.ccm.0000620008.90432.bf
+
+2. 'TIMEOUT' Before PEG Placement: A Policy Approach to Align Shared Decision Making and Goals of Care through Palliative Intervention (F425C)
+
+3. Ellis EM, Orehek E, Ferrer RA. Patient-provider care goal concordance: implications for palliative care decisions. Psychol Health. 2019 Aug;34(8):983-998. doi: 10.1080/08870446.2019.1584672. Epub 2019 Mar 23. PMID: 30905185.
