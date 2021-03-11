@@ -118,12 +118,41 @@
   - You are trying to give them peace with their decision not peace with you
 
 - Use empathic statements.
+ <details>
+  <summary>NURSE Statements</summary>
+Ways to verbally address emotions
+
+Name
+“I can see that this is frustrating.”
+“It seems that this is very upsetting to you.”
+“I wonder if you might be feeling angry.”
+“Anyone in your situation would be upset.”
+
+Understand
+“I can't imagine how hard this is for you.”
+“I can only imagine what it’s like to balance your treatments and her family life.”
+“I can't possibly understand what you're going through right now.”
+“I think I understand you to say that you're concerned about the effect of the chemotherapy on your kids.”
+
+Respect
+“You're doing all the right things and asking all the right questions.”
+“I’ve been so impressed by the care you havet been providing for your wife during the many years of her illness.”
+
+Support
+“I'm going to walk this road with you.”
+“You’re not alone in this.”   
+
+Explore
+“Tell me more about what worries you.”
+“I sense how upset you are feeling about the results of the CT scan.”
+</details>
 
 - Ignoring spiritual beliefs
 
 - Not asking questions
   - “What does everything mean?”
   - “Tell me more about that?”
+
 
 <details>
   <summary>Why do we want the DNR?</summary>
@@ -135,25 +164,26 @@
 <details>
   <summary>How to do have a good GOC conversation?</summary>
   
-### Use a Talking Map</h3>
-  ## [REMAP](https://www.vitaltalk.org/guides/transitionsgoals-of-care/)
+## Use a Talking Map
+  ### [REMAP](https://www.vitaltalk.org/guides/transitionsgoals-of-care/)
   1. Reframe why the status quo isn’t working. 
   2. Expect emotion & empathize. 
   3. Map the future.
   4. Align with the patient’s values. 
   5. Plan medical treatments that match patient values.
 
-  ## Susan Block's Four Questions
+  ### Susan Block's Four Questions
 
   1. Do you understand your prognosis?
   2. What are your fears about what is to come?
   3. What are your goals as time runs out?
   4. What trade offs are you willing to make?
 
-  ## Others
-  1. If you time was short what would be more important to you?
+  ### Others
+  1. "If you time was short what would be more important to you?"
   2. Discuss best care, worst case, and what will probably happen.
-  3. [Serious Illness Conversation Guide](https://www.ariadnelabs.org/areas-of-work/serious-illness-care/)
+  3. "Think about 6 months ago, think of today, now think about 6 months from now."
+  4. [Serious Illness Conversation Guide](https://www.ariadnelabs.org/areas-of-work/serious-illness-care/)
 
 </details>
 
