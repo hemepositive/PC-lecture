@@ -36,7 +36,7 @@ The List of Woe
 
 - Talking to a non-decision maker
 
-  - Definitions [More](#Overview)
+  - Definitions
     - Surrogate decision maker
     - Health care proxy defined in living will, advance directives
     - Power of attorney
@@ -44,6 +44,16 @@ The List of Woe
     - May only be POA and limited to financial decisions
   - It's not the uncle
   - It’s not the oldest child
+  <details>
+  <summary>More...</summary>
+  
+  1. POA papers are typically prepared legally through a law office and may/may not include HC POA (must read to clarify)
+  2. Living wills identify a healthcare proxy. If using the HH Advanced Directives packet, only 2 witnesses required, not notary.
+  3. If we are recognizing, decision maker as HC POA or HC proxy, we should make every attempt to get paperwork on chart if not in Cerner.
+  4. If letting NOK, act as medical surrogate, we should use the CERTIFICATION OF HEALTH CARE DECISION SURROGATE (PULSE page, forms) at least for compassionate extubation.
+  5. If none of the above and no relatives, need case mgt to work on expedited guardianship. Guardianship (power over the person) vs. Conservatorship (power over the purse).
+
+  </details>
 
 - Beating a dead horse
 
@@ -109,14 +119,14 @@ The List of Woe
 
 <details>
   <summary><h3>Why do we want the DNR?</h3></summary>
-  ### Moral Distress
-  "Knowing the right thing to do but not being able to do it because of some external constraint."
+  Moral Distress
+  : "Knowing the right thing to do but not being able to do it because of some external constraint."
 </details>
 
 <details>
   <summary><h3>How to do have a good GOC conversation?</h3></summary>
   
-  ### Use a Talking Map
+### Use a Talking Map</h3>
   ## [REMAP](https://www.vitaltalk.org/guides/transitionsgoals-of-care/)
   1. Reframe why the status quo isn’t working. 
   2. Expect emotion & empathize. 
@@ -132,14 +142,6 @@ The List of Woe
 4. What trade offs are you willing to make?
 
 </details>
-
-## Overview
-
-1. POA papers are typically prepared legally through a law office and may/may not include HC POA (must read to clarify)
-2. Living wills identify a healthcare proxy. If using the HH Advanced Directives packet, only 2 witnesses required, not notary.
-3. If we are recognizing, decision maker as HC POA or HC proxy, we should make every attempt to get paperwork on chart if not in Cerner.
-4. If letting NOK, act as medical surrogate, we should use the CERTIFICATION OF HEALTH CARE DECISION SURROGATE (PULSE page, forms) at least for compassionate extubation.
-5. If none of the above and no relatives, need case mgt to work on expedited guardianship. Guardianship (power over the person) vs. Conservatorship (power over the purse).
 
 **References**
 
