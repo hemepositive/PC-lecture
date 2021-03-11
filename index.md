@@ -16,8 +16,8 @@
 <details>
   <summary>Results</summary>
   
-  1. 17% vs 4% trach/PEG after GOC conversations[^1]
-  2. Over 50% decrease in PEG placement after GOC conversations[^2]
+    1. 17% vs 4% trach/PEG after GOC conversations[^1]
+    2. Over 50% decrease in PEG placement after GOC conversations[^2]
 </details>
 
 ## The List of Woe
@@ -25,8 +25,14 @@
 - Talking too much and not being quiet.
 
   - Ask questions and don't talk all the time.
+  - Most providers are thinking of what to say next rather than listening.
   - What have they heard?
   - What have they been thinking about?
+
+- Posture mistakes
+  - Standing over patient
+  - Try to sit
+  - Don't cross arms (US culture) 
 
 - Assuming they care about what you would do with your family.
 
