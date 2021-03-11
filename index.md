@@ -2,8 +2,6 @@
 
 ## [Survey](./survey)
 
-<hr />
-
 ## What is the point of a goals of care conversation?
 
 <details>
