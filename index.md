@@ -1,9 +1,13 @@
-## How Not To Discuss Goal of Care
+# How Not To Discuss Goal of Care
 
-### [Survey](./survey)
+## [Survey](./survey)
+
+<hr />
+
+## What is the point of a goals of care conversation?</h3>
 
 <details>
-  <summary><h3>What is the point of a goals of care conversation?</h3></summary>
+  <summary>Answer</summary>
 
 Goal concordant care: healthcare for seriously ill patients that aligns treatment with their goals and values.
 
@@ -11,43 +15,18 @@ Goal concordant care: healthcare for seriously ill patients that aligns treatmen
 
 The List of Woe
 
-<details>
-  <summary>Number 1</summary>
-  
-  Talking to a non-decision maker
-    - Definitions
-      -- Surrogate decision maker
-      -- Health care proxy defined in living will, advance directives
-      -- Power of attorney
-          -- May be HCPOA
-          -- May only be POA and limited to financial decisions
-    - It’s not the oldest
-  
-  <details>
-  <summary>More info</summary>
-  POA papers are typically prepared legally through a law office and may/may not include HC POA (must read to clarify)
-   Living wills identify a healthcare proxy. If using the HH Advanced Directives packet, only 2 witnesses required, not notary.
-   If we are recognizing, decision maker as HC POA or HC proxy, we should make every attempt to get paperwork on chart if not in Cerner.
-   If letting NOK, act as medical surrogate, we should use the CERTIFICATION OF HEALTH CARE DECISION SURROGATE (PULSE page, forms) at least for compassionate extubation.
-   If none of the above and no relatives, need case mgt to work on expedited guardianship. Guardianship (power over the person) vs. Conservatorship (power over the purse).
-  </details>
-</details>
-
-<details>
-  <summary>Number 2</summary>
-  - 
-  </details>
-
 - Talking too much and not being quiet.
-  -- Ask questions.
+  -- Ask questions and don't talk all the time.
   -- What have they heard?
   -- What have they been thinking about?
 
 - Assuming they care about what you would do with your family.
   -- It’s based on what they feel the patient would want.
+  -- Decision made based on their values, goals, and beliefs not yours.
   -- Extreme informed consent
 
 - Talking to a non-decision maker
+
   - Definitions [More](#Definitions)
     -- Surrogate decision maker
     -- Health care proxy defined in living will, advance directives
@@ -56,6 +35,7 @@ The List of Woe
     -- May only be POA and limited to financial decisions
   - It's not the uncle
   - It’s not the oldest child
+
 - Beating a dead horse
   -- How long do you need to make a decision on your spouse, a new car, vacation?
   -- Give surrogates the same courtesy
@@ -105,6 +85,23 @@ The List of Woe
   -- “What does everything mean?”
   -- “Tell me more about that?”
 
+<details>
+  <summary><h3>Why do we want the DNR?</h3></summary>
+  ### Moral Distress
+  "Knowing the right thing to do but not being able to do it because of some external constraint."
+</details>
+
+<details>
+  <summary><h3>How to do have a good GOC conversation?</h3></summary>
+  ### Use a talking map
+  ## [REMAP](https://www.vitaltalk.org/guides/transitionsgoals-of-care/)
+  1. Reframe why the status quo isn’t working. 
+  2. Expect emotion & empathize. 
+  3. Map the future.
+  4. Align with the patient’s values. 
+  5. Plan medical treatments that match patient values. 
+</details>
+
 ## Definitions
 
 1. POA papers are typically prepared legally through a law office and may/may not include HC POA (must read to clarify)
@@ -112,3 +109,22 @@ The List of Woe
 3. If we are recognizing, decision maker as HC POA or HC proxy, we should make every attempt to get paperwork on chart if not in Cerner.
 4. If letting NOK, act as medical surrogate, we should use the CERTIFICATION OF HEALTH CARE DECISION SURROGATE (PULSE page, forms) at least for compassionate extubation.
 5. If none of the above and no relatives, need case mgt to work on expedited guardianship. Guardianship (power over the person) vs. Conservatorship (power over the purse).
+
+<details>
+  <summary>Number 1</summary>
+  
+  Talking to a non-decision maker
+    - Definitions
+      -- Surrogate decision maker
+      -- Health care proxy defined in living will, advance directives
+      -- Power of attorney
+          -- May be HCPOA
+          -- May only be POA and limited to financial decisions
+    - It’s not the oldest
+
+</details>
+
+<details>
+  <summary>Number 2</summary>
+  
+  </details>
