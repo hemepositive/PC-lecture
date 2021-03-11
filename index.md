@@ -43,8 +43,8 @@
     - Surrogate decision maker
     - Health care proxy defined in living will, advance directives
     - Power of attorney
-    - May be HCPOA
-    - May only be POA and limited to financial decisions
+      - May be HCPOA
+      - May only be POA and limited to financial decisions
   - It's not the uncle
   - It’s not the oldest child
   <details>
