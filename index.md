@@ -10,7 +10,7 @@
   Goal concordant care
   : healthcare for seriously ill patients that aligns treatment with their goals and values.
 
-  **We want to have a conversation to determine what is most important and what they want to avoid then turn those  into medical orders.**
+  **We want to have a conversation to determine what is most important and what we want to avoid. We then turn those priorities into medical orders. **
      
 </details>
 
@@ -66,6 +66,7 @@
 - Making an agenda
 
   - For 28% of providers, their own care goals differed from their patients'. Providers were more likely to prioritise palliative care (relative to curative) in their own goals than in their predictions about patients' goals.[^3]
+  - "We are not trying to talk you into anything, nor are we trying to talk you into anything."
  
 - Being brutally honest is not a virtue.
   
@@ -78,6 +79,7 @@
   - Beliefs, values, experiences are more important in decision making.
 
 - Blurring the line between level of care and CODE STATUS.
+
   - Level of Care is what we do when you are alive.
   - Code status is what we do when you are dead.
 
@@ -95,7 +97,7 @@
 - Brutal description of CPR
 
   - "I know it is going to break ribs”
-  - Statistics are better as is explaining the condition after successful resuscitation.
+  - Using statistics and explaining the condition after successful resuscitation.
   - Do you ever remember somebody being better off, healthier after CPR?
   - It comes down to what is the goal of doing CPR. What are we hoping to accomplish?
   - Have you ever seen CPR on TV?
@@ -170,6 +172,8 @@
   3. Map the future.
   4. Align with the patient’s values. 
   5. Plan medical treatments that match patient values.
+
+  ### [SPIKES](https://www.aafp.org/afp/2018/0715/p99.html)
 
   ### Susan Block's Four Questions
 
