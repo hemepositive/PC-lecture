@@ -75,7 +75,7 @@
 
 - Thinking decisions are based on logic.
 
-  - Did you logically choose your spouse?
+  - Did you logically choose your spouse/partner?
   - Beliefs, values, experiences are more important in decision making.
 
 - Blurring the line between level of care and CODE STATUS.
