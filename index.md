@@ -11,6 +11,9 @@
 
 Goal concordant care: healthcare for seriously ill patients that aligns treatment with their goals and values.
 
+1. 17% vs 4% trach/PEG after GOC conversations
+2. > 50% decrease in PEG placement after GOC conversations
+
 </details>
 
 The List of Woe
@@ -110,21 +113,8 @@ The List of Woe
 4. If letting NOK, act as medical surrogate, we should use the CERTIFICATION OF HEALTH CARE DECISION SURROGATE (PULSE page, forms) at least for compassionate extubation.
 5. If none of the above and no relatives, need case mgt to work on expedited guardianship. Guardianship (power over the person) vs. Conservatorship (power over the purse).
 
-<details>
-  <summary>Number 1</summary>
-  
-  Talking to a non-decision maker
-    - Definitions
-      -- Surrogate decision maker
-      -- Health care proxy defined in living will, advance directives
-      -- Power of attorney
-          -- May be HCPOA
-          -- May only be POA and limited to financial decisions
-    - It’s not the oldest
+**References**
+Ramkumar, Mukund1; Aslakson, Rebecca1 415: GOALS OF CARE AND GOAL CONCORDANCE BETWEEN CRITICALLY ILL ADULTS AND THEIR FAMILY MEMBERS, Critical Care Medicine: January 2020 Volume 48 Issue 1 p 189
+doi: 10.1097/01.ccm.0000620008.90432.bf
 
-</details>
-
-<details>
-  <summary>Number 2</summary>
-  
-  </details>
+'TIMEOUT' Before PEG Placement: A Policy Approach to Align Shared Decision Making and Goals of Care through Palliative Intervention (F425C)
